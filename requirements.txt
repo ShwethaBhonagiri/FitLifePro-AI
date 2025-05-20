@@ -1,0 +1,20 @@
+# FitLife Pro AI+ Requirements
+# Python 3.8+ recommended
+
+# Core dependencies
+streamlit>=1.30.0         # Web application framework
+numpy>=1.23.0             # Numerical operations
+pandas>=1.5.0             # Data manipulation and analysis
+scikit-learn>=1.1.0       # Machine learning components (clustering, recommendation systems)
+matplotlib>=3.5.0         # Data visualization
+
+# Additional libraries
+plotly>=5.14.0            # Interactive visualizations
+joblib>=1.2.0             # Model persistence and parallel computing
+seaborn>=0.12.0           # Enhanced statistical visualizations
+statsmodels>=0.13.5      # Statistical models for time series analysis
+
+# Testing 
+pytest>=7.3.1             # Testing framework
+pytest-cov>=4.1.0         # Test coverage reporting
+

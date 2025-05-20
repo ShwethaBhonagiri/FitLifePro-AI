@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "user_id": "740e9904-50ec-44cd-a87e-8e558cc21866",
+      "profile": {
+        "age": 30,
+        "gender": "Male",
+        "weight": 70.0,
+        "height": 170.0,
+        "activity_level": "Lightly Active",
+        "health_conditions": [
+          "None"
+        ],
+        "other_condition": "",
+        "medications": "",
+        "goal": "Weight Loss",
+        "target_weight": 65.0,
+        "timeline": 3,
+        "difficulty": "Moderate",
+        "auto_adjust_difficulty": true,
+        "workout_frequency": 4,
+        "workout_duration": 45,
+        "diet_type": "Non-Vegetarian",
+        "meat_preferences": [
+          "Chicken",
+          "Fish"
+        ],
+        "allergies": [
+          "Dairy"
+        ],
+        "other_allergy": "",
+        "dislikes": [
+          "Mushrooms"
+        ],
+        "other_dislike": "",
+        "meal_count": 3,
+        "meal_timing": [
+          "Morning (7-9am)",
+          "Noon (11am-1pm)",
+          "Evening (4-7pm)"
+        ],
+        "calorie_preference": "Moderate deficit",
+        "cooking_time": "30 minutes",
+        "meal_prep": true,
+        "workout_location": "Both",
+        "home_equipment": [
+          "None"
+        ],
+        "other_equipment": "",
+        "exercise_preferences": [
+          "Weight Training",
+          "Cardio"
+        ],
+        "limitations": [
+          "Knee Pain/Injury",
+          "Back Pain/Injury"
+        ],
+        "other_limitation": "",
+        "focus_areas": [
+          "Full Body"
+        ],
+        "workout_schedule": [
+          "No preference"
+        ],
+        "time_preference": "No preference"
+      },
+      "feedback_history": [
+        {
+          "timestamp": "2025-05-20 07:10:22",
+          "satisfaction": 5,
+          "comments": "",
+          "workout_ratings": {
+            "Core and Cardio Circuit": 5
+          },
+          "meal_ratings": {
+            "Eggs and Toast": 5
+          }
+        }
+      ]
+    }
+  ],
+  "workout_ratings": {
+    "Core and Cardio Circuit": [
+      {
+        "user_id": "740e9904-50ec-44cd-a87e-8e558cc21866",
+        "rating": 5,
+        "timestamp": "2025-05-20 07:10:22"
+      }
+    ]
+  },
+  "meal_ratings": {
+    "Eggs and Toast": [
+      {
+        "user_id": "740e9904-50ec-44cd-a87e-8e558cc21866",
+        "rating": 5,
+        "timestamp": "2025-05-20 07:10:22"
+      }
+    ]
+  }
+}

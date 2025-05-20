@@ -1,0 +1,1336 @@
+{
+  "weight_loss": {
+    "beginner": {
+      "workouts": [
+        {
+          "name": "Morning Fat-Burning Walk",
+          "type": "cardio",
+          "duration": 30,
+          "intensity": "Low",
+          "equipment": ["None"],
+          "focus_areas": ["Full Body", "Cardio"],
+          "description": "A gentle morning walk to boost metabolism and energy levels. Perfect for beginners looking to build cardiovascular fitness.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example1",
+          "exercises": [
+            {
+              "name": "Dynamic Warm-up Stretching",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Moderate-Pace Walking",
+              "sets": 1,
+              "duration": "10 min",
+              "rest": 0
+            },
+            {
+              "name": "Brisk Walking Intervals",
+              "sets": 5,
+              "duration": "2 min",
+              "rest": 60
+            },
+            {
+              "name": "Cool-down Walking",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Gentle Yoga Flow for Beginners",
+          "type": "yoga",
+          "duration": 25,
+          "intensity": "Low",
+          "equipment": ["Yoga Mat"],
+          "focus_areas": ["Full Body", "Flexibility", "Core"],
+          "description": "A gentle yoga flow to improve flexibility, core strength, and reduce stress. Great for recovery days or stress management.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example2",
+          "exercises": [
+            {
+              "name": "Child's Pose",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            },
+            {
+              "name": "Cat-Cow Stretch",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            },
+            {
+              "name": "Downward Dog",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            },
+            {
+              "name": "Warrior I",
+              "sets": 1,
+              "duration": "45 sec each side",
+              "rest": 0
+            },
+            {
+              "name": "Warrior II",
+              "sets": 1,
+              "duration": "45 sec each side",
+              "rest": 0
+            },
+            {
+              "name": "Gentle Backbends",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            },
+            {
+              "name": "Savasana (Final Relaxation)",
+              "sets": 1,
+              "duration": "2 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Beginner Full Body Circuit",
+          "type": "circuit",
+          "duration": 30,
+          "intensity": "Low-Moderate",
+          "equipment": ["Bodyweight", "Chair"],
+          "focus_areas": ["Full Body", "Strength"],
+          "description": "A beginner-friendly circuit to build strength in all major muscle groups with minimal equipment required.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example3",
+          "exercises": [
+            {
+              "name": "Warm-up March in Place",
+              "sets": 1,
+              "duration": "3 min",
+              "rest": 0
+            },
+            {
+              "name": "Chair Squats",
+              "sets": 3,
+              "reps": "10",
+              "rest": 45
+            },
+            {
+              "name": "Modified Push-ups (on knees)",
+              "sets": 3,
+              "reps": "8",
+              "rest": 45
+            },
+            {
+              "name": "Bird Dog",
+              "sets": 3,
+              "reps": "8 each side",
+              "rest": 45
+            },
+            {
+              "name": "Seated Leg Raises",
+              "sets": 3,
+              "reps": "10 each leg",
+              "rest": 45
+            },
+            {
+              "name": "Standing Calf Raises",
+              "sets": 3,
+              "reps": "12",
+              "rest": 45
+            },
+            {
+              "name": "Cool-down Stretches",
+              "sets": 1,
+              "duration": "3 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Low-Impact Water Aerobics",
+          "type": "cardio",
+          "duration": 35,
+          "intensity": "Low-Moderate",
+          "equipment": ["Pool"],
+          "focus_areas": ["Full Body", "Cardio", "Joints"],
+          "description": "A refreshing water workout that's easy on the joints while providing excellent cardiovascular benefits and resistance training.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example4",
+          "exercises": [
+            {
+              "name": "Water Walking",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Aqua Jumping Jacks",
+              "sets": 3,
+              "duration": "1 min",
+              "rest": 30
+            },
+            {
+              "name": "Water Arm Curls",
+              "sets": 3,
+              "duration": "1 min",
+              "rest": 30
+            },
+            {
+              "name": "Leg Lifts in Water",
+              "sets": 3,
+              "duration": "1 min",
+              "rest": 30
+            },
+            {
+              "name": "Water Jogging",
+              "sets": 3,
+              "duration": "2 min",
+              "rest": 30
+            },
+            {
+              "name": "Cool Down Water Stretches",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Gentle Mobility and Stretching",
+          "type": "flexibility",
+          "duration": 25,
+          "intensity": "Low",
+          "equipment": ["Yoga Mat", "Foam Roller"],
+          "focus_areas": ["Full Body", "Mobility", "Recovery"],
+          "description": "A gentle series of mobility exercises and static stretches to improve range of motion and enhance recovery.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example5",
+          "exercises": [
+            {
+              "name": "Neck Mobility Circles",
+              "sets": 2,
+              "reps": "5 each direction",
+              "rest": 10
+            },
+            {
+              "name": "Shoulder Rolls",
+              "sets": 2,
+              "reps": "10 each direction",
+              "rest": 10
+            },
+            {
+              "name": "Hip Circles",
+              "sets": 2,
+              "reps": "8 each direction",
+              "rest": 10
+            },
+            {
+              "name": "Ankle Mobility",
+              "sets": 2,
+              "reps": "10 each ankle",
+              "rest": 10
+            },
+            {
+              "name": "Hamstring Stretches",
+              "sets": 2,
+              "duration": "30 sec each leg",
+              "rest": 10
+            },
+            {
+              "name": "Quad Stretches",
+              "sets": 2,
+              "duration": "30 sec each leg",
+              "rest": 10
+            },
+            {
+              "name": "Chest and Shoulder Stretch",
+              "sets": 2,
+              "duration": "30 sec each side",
+              "rest": 10
+            },
+            {
+              "name": "Foam Rolling: Back",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            },
+            {
+              "name": "Foam Rolling: Quads",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            },
+            {
+              "name": "Foam Rolling: Calves",
+              "sets": 1,
+              "duration": "60 sec",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        }
+      ],
+      "meals": [
+        {
+          "name": "Apple Cinnamon Overnight Oats",
+          "type": "breakfast",
+          "calories": 320,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 12,
+            "carbs": 45,
+            "fat": 9
+          },
+          "allergens": ["Gluten"],
+          "recipe": "Mix 1/2 cup rolled oats with 3/4 cup almond milk, 1 tbsp chia seeds, 1/2 tsp cinnamon, and a dash of vanilla extract. Add 1/2 diced apple and 1 tsp maple syrup. Refrigerate overnight for a quick and nutritious breakfast."
+        },
+        {
+          "name": "Greek Yogurt Parfait",
+          "type": "breakfast",
+          "calories": 310,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 20,
+            "carbs": 35,
+            "fat": 8
+          },
+          "allergens": ["Dairy", "Nuts"],
+          "recipe": "Layer 1 cup Greek yogurt with 1/2 cup mixed berries, 2 tbsp granola, and 1 tsp honey. Top with 1 tbsp sliced almonds for a protein-rich breakfast that will keep you full all morning."
+        },
+        {
+          "name": "Spinach and Feta Egg Muffins",
+          "type": "breakfast",
+          "calories": 290,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 18,
+            "carbs": 8,
+            "fat": 21
+          },
+          "allergens": ["Eggs", "Dairy"],
+          "recipe": "Whisk 6 eggs and add 1 cup chopped spinach, 1/4 cup crumbled feta, and pepper to taste. Pour into muffin tin and bake at 350°F for 20 minutes. Makes 3 servings (2 muffins each). Great for meal prep!"
+        },
+        {
+          "name": "Avocado Toast with Poached Egg",
+          "type": "breakfast",
+          "calories": 340,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 14,
+            "carbs": 30,
+            "fat": 18
+          },
+          "allergens": ["Gluten", "Eggs"],
+          "recipe": "Toast 1 slice of whole grain bread. Mash 1/2 ripe avocado and spread on toast. Top with 1 poached egg, salt, pepper, and red pepper flakes for a balanced breakfast with healthy fats and protein."
+        },
+        {
+          "name": "Mediterranean Chickpea Salad",
+          "type": "lunch",
+          "calories": 380,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 15,
+            "carbs": 45,
+            "fat": 16
+          },
+          "allergens": ["None"],
+          "recipe": "Combine 1/2 cup chickpeas, 1 cup mixed greens, 1/4 cup cucumber, 1/4 cup cherry tomatoes, 2 tbsp red onion, 2 tbsp olives, and 1 tbsp olive oil and lemon dressing. A protein-packed, plant-based lunch option."
+        },
+        {
+          "name": "Cilantro Lime Chicken Wrap",
+          "type": "lunch",
+          "calories": 420,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 30,
+            "carbs": 40,
+            "fat": 15
+          },
+          "allergens": ["Gluten"],
+          "recipe": "Marinate 4oz chicken breast in lime juice and cilantro, then grill. Wrap in a whole wheat tortilla with lettuce, tomato, avocado, and a dollop of Greek yogurt for a high-protein, satisfying lunch."
+        },
+        {
+          "name": "Tuna and White Bean Salad",
+          "type": "lunch",
+          "calories": 350,
+          "diet_types": ["Non-Vegetarian", "Pescatarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 30,
+            "carbs": 30,
+            "fat": 12
+          },
+          "allergens": ["Fish"],
+          "recipe": "Mix 3oz canned tuna with 1/2 cup white beans, 1 cup mixed greens, 1/4 cup diced bell pepper, 1 tbsp olive oil, and a squeeze of lemon juice. High in protein and fiber to keep you full throughout the afternoon."
+        },
+        {
+          "name": "Turkey and Hummus Lettuce Wraps",
+          "type": "lunch",
+          "calories": 290,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 28,
+            "carbs": 15,
+            "fat": 14
+          },
+          "allergens": ["None"],
+          "recipe": "Use large romaine lettuce leaves as wraps. Fill with 3oz sliced turkey breast, 2 tbsp hummus, sliced cucumber, grated carrot, and bell pepper strips. A carb-conscious lunch option that's still filling."
+        },
+        {
+          "name": "Sheet Pan Herb Salmon",
+          "type": "dinner",
+          "calories": 390,
+          "diet_types": ["Non-Vegetarian", "Pescatarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 30,
+            "carbs": 25,
+            "fat": 18
+          },
+          "allergens": ["Fish"],
+          "recipe": "Season 5oz salmon fillet with herbs, garlic, and lemon. Roast on a sheet pan with 1 cup mixed vegetables (broccoli, bell peppers, zucchini) for 15-20 minutes at 400°F. A complete meal on one pan!"
+        },
+        {
+          "name": "Lentil and Sweet Potato Bowl",
+          "type": "dinner",
+          "calories": 410,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 18,
+            "carbs": 65,
+            "fat": 8
+          },
+          "allergens": ["None"],
+          "recipe": "Combine 1/2 cup cooked lentils with 1 cup roasted sweet potatoes, 1 cup sautéed greens, and 1 tbsp tahini dressing. A nutrient-dense plant-based dinner that's rich in fiber and plant protein."
+        },
+        {
+          "name": "Turkey and Vegetable Stir-Fry",
+          "type": "dinner",
+          "calories": 370,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 35,
+            "carbs": 30,
+            "fat": 12
+          },
+          "allergens": ["Soy"],
+          "recipe": "Stir-fry 4oz ground turkey with 2 cups mixed vegetables (snap peas, carrots, broccoli, bell peppers) in 1 tsp sesame oil. Season with low-sodium soy sauce and garlic. A quick, high-protein dinner option."
+        },
+        {
+          "name": "Slow Cooker Vegetable Chili",
+          "type": "dinner",
+          "calories": 320,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 15,
+            "carbs": 50,
+            "fat": 6
+          },
+          "allergens": ["None"],
+          "recipe": "Combine 1 can diced tomatoes, 1/2 cup each of black beans, kidney beans, and corn, with diced onion, bell pepper, garlic, and chili spices in a slow cooker. Cook on low for 6-8 hours for a comforting, protein-rich vegan meal."
+        },
+        {
+          "name": "Berry Protein Smoothie",
+          "type": "snack",
+          "calories": 180,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 15,
+            "carbs": 20,
+            "fat": 5
+          },
+          "allergens": ["Dairy"],
+          "recipe": "Blend 1/2 cup mixed berries, 1/2 banana, 1 scoop vanilla protein powder, 1 cup unsweetened almond milk, and ice. A refreshing post-workout snack with the perfect balance of protein and carbs."
+        },
+        {
+          "name": "Hummus with Veggie Sticks",
+          "type": "snack",
+          "calories": 150,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 6,
+            "carbs": 15,
+            "fat": 8
+          },
+          "allergens": ["None"],
+          "recipe": "Serve 3 tbsp hummus with carrot, cucumber, and bell pepper sticks. A fiber-rich snack that's perfect for curbing hunger between meals."
+        },
+        {
+          "name": "Apple with Almond Butter",
+          "type": "snack",
+          "calories": 200,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 5,
+            "carbs": 25,
+            "fat": 10
+          },
+          "allergens": ["Nuts"],
+          "recipe": "Slice 1 medium apple and serve with 1 tbsp almond butter. The perfect combination of healthy carbs, fats, and fiber to satisfy cravings and provide sustained energy."
+        },
+        {
+          "name": "Greek Yogurt with Honey",
+          "type": "snack",
+          "calories": 170,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 17,
+            "carbs": 15,
+            "fat": 4
+          },
+          "allergens": ["Dairy"],
+          "recipe": "Mix 1 cup Greek yogurt with 1 tsp honey and a sprinkle of cinnamon. An excellent high-protein snack to support muscle recovery and satisfy sweet cravings."
+        },
+        {
+          "name": "Vegan Protein Shake",
+          "type": "snack",
+          "calories": 190,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 20,
+            "carbs": 15,
+            "fat": 6
+          },
+          "allergens": ["None"],
+          "recipe": "Blend 1 scoop plant-based protein powder, 1 cup unsweetened almond milk, 1/2 frozen banana, 1 tbsp flaxseed, and a handful of spinach. A nutrient-dense vegan protein source perfect for post-workout recovery."
+        },
+        {
+          "name": "Quinoa Breakfast Bowl with Berries",
+          "type": "breakfast",
+          "calories": 345,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 10,
+            "carbs": 55,
+            "fat": 10
+          },
+          "allergens": ["None"],
+          "recipe": "Cook 1/2 cup quinoa in 1 cup almond milk until soft. Top with 1/2 cup mixed berries, 1 tbsp sliced almonds, and 1 tsp maple syrup. A protein-rich alternative to oatmeal with complete amino acids."
+        },
+        {
+          "name": "Tofu Scramble with Vegetables",
+          "type": "breakfast",
+          "calories": 280,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 18,
+            "carbs": 20,
+            "fat": 14
+          },
+          "allergens": ["Soy"],
+          "recipe": "Crumble 170g firm tofu and sauté with 1/2 cup diced bell peppers, 1/4 cup onions, and 1 cup spinach. Season with turmeric, nutritional yeast, garlic powder, and black salt for an egg-like flavor. Serve with 1 slice of whole grain toast."
+        },
+        {
+          "name": "Zucchini Noodles with Turkey Meatballs",
+          "type": "lunch",
+          "calories": 370,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 32,
+            "carbs": 20,
+            "fat": 18
+          },
+          "allergens": ["Eggs"],
+          "recipe": "Spiralize 1 large zucchini and sauté briefly. Top with 5 turkey meatballs (100g ground turkey mixed with 1 tbsp almond flour, 1 tbsp minced onion, and Italian herbs, formed into balls and baked) and 1/4 cup tomato sauce. A low-carb alternative to traditional pasta dishes."
+        },
+        {
+          "name": "Cauliflower Fried Rice with Tofu",
+          "type": "dinner",
+          "calories": 330,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 20,
+            "carbs": 25,
+            "fat": 16
+          },
+          "allergens": ["Soy"],
+          "recipe": "Pulse 1 head of cauliflower in a food processor until rice-sized. Sauté with 100g cubed firm tofu, 1/2 cup mixed vegetables (peas, carrots, bell peppers), 1 tbsp low-sodium soy sauce, 1 tsp sesame oil, and garlic. A lower-carb alternative to traditional fried rice."
+        }
+      ],
+      "equipment_recommendations": [
+        {
+          "name": "Comfortable Walking Shoes",
+          "price": 59.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Supportive walking shoes with good cushioning and arch support for daily walks.",
+          "reason": "Essential for comfortable walking sessions without risk of injury - your foundation for the program.",
+          "alternatives": "Any well-cushioned athletic shoes you already own"
+        },
+        {
+          "name": "Basic Fitness Mat",
+          "price": 19.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "A non-slip exercise mat for floor exercises and stretching routines.",
+          "reason": "Provides cushioning and support during floor exercises, protecting joints and improving comfort.",
+          "alternatives": "Folded blanket or large towel"
+        },
+        {
+          "name": "Resistance Bands Set",
+          "price": 15.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "A set of resistance bands with varying levels of resistance for strength training.",
+          "reason": "Versatile and affordable way to add resistance to exercises for muscle building.",
+          "alternatives": "Small water bottles or household items as weights"
+        },
+        {
+          "name": "Fitness Tracker",
+          "price": 49.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Basic fitness tracker to monitor steps, heart rate, and activity levels.",
+          "reason": "Helps track progress and maintain motivation by providing real-time feedback.",
+          "alternatives": "Smartphone with a free fitness tracking app"
+        },
+        {
+          "name": "Water Bottle",
+          "price": 12.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Reusable water bottle to stay hydrated during workouts and throughout the day.",
+          "reason": "Proper hydration is essential for metabolism, energy levels, and recovery.",
+          "alternatives": "Any clean container for water"
+        }
+      ]
+    },
+    "moderate": {
+      "workouts": [
+        {
+          "name": "HIIT Cardio Session",
+          "type": "hiit",
+          "duration": 35,
+          "intensity": "High",
+          "equipment": ["None"],
+          "focus_areas": ["Full Body", "Cardio", "Fat Loss"],
+          "description": "A high-intensity interval training session designed to maximize calorie burn and boost metabolism for hours after your workout.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example5",
+          "exercises": [
+            {
+              "name": "Dynamic Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Jumping Jacks",
+              "sets": 4,
+              "duration": "40 sec",
+              "rest": 20
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 4,
+              "duration": "40 sec",
+              "rest": 20
+            },
+            {
+              "name": "Burpees (Modified)",
+              "sets": 4,
+              "duration": "40 sec",
+              "rest": 20
+            },
+            {
+              "name": "High Knees",
+              "sets": 4,
+              "duration": "40 sec",
+              "rest": 20
+            },
+            {
+              "name": "Plank Jacks",
+              "sets": 4,
+              "duration": "40 sec",
+              "rest": 20
+            },
+            {
+              "name": "Cool-down",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Total Body Dumbbell Workout",
+          "type": "strength",
+          "duration": 45,
+          "intensity": "Moderate",
+          "equipment": ["Dumbbells"],
+          "focus_areas": ["Full Body", "Strength", "Muscle Tone"],
+          "description": "A comprehensive strength workout targeting all major muscle groups using dumbbells to build lean muscle and boost metabolism.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example6",
+          "exercises": [
+            {
+              "name": "Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Dumbbell Goblet Squats",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Romanian Deadlifts",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Bench Press",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Rows",
+              "sets": 3,
+              "reps": "12 each side",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Overhead Press",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Tricep Extensions",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Cool-down Stretches",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Core and Cardio Circuit",
+          "type": "circuit",
+          "duration": 40,
+          "intensity": "Moderate-High",
+          "equipment": ["Mat"],
+          "focus_areas": ["Core", "Cardio", "Fat Loss"],
+          "description": "A challenging circuit combining cardio intervals with core-focused exercises to build abdominal strength while burning calories.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example7",
+          "exercises": [
+            {
+              "name": "Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "45 sec",
+              "rest": 15
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "duration": "45 sec",
+              "rest": 15
+            },
+            {
+              "name": "Russian Twists",
+              "sets": 3,
+              "reps": "20 total",
+              "rest": 15
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "duration": "45 sec",
+              "rest": 15
+            },
+            {
+              "name": "High Knees",
+              "sets": 3,
+              "duration": "45 sec",
+              "rest": 15
+            },
+            {
+              "name": "V-Ups",
+              "sets": 3,
+              "reps": "12",
+              "rest": 15
+            },
+            {
+              "name": "Jump Rope (or Jumping Jacks)",
+              "sets": 3,
+              "duration": "45 sec",
+              "rest": 15
+            },
+            {
+              "name": "Cool-down",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Kettlebell Metabolic Conditioning",
+          "type": "strength",
+          "duration": 40,
+          "intensity": "Moderate-High",
+          "equipment": ["Kettlebell"],
+          "focus_areas": ["Full Body", "Strength", "Fat Loss"],
+          "description": "A dynamic workout using kettlebells to build functional strength, boost metabolism, and burn fat efficiently.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example8",
+          "exercises": [
+            {
+              "name": "Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Kettlebell Swings",
+              "sets": 4,
+              "reps": "15",
+              "rest": 45
+            },
+            {
+              "name": "Kettlebell Goblet Squats",
+              "sets": 4,
+              "reps": "12",
+              "rest": 45
+            },
+            {
+              "name": "Single-Arm Kettlebell Row",
+              "sets": 4,
+              "reps": "12 each side",
+              "rest": 45
+            },
+            {
+              "name": "Kettlebell Clean and Press",
+              "sets": 4,
+              "reps": "10 each side",
+              "rest": 45
+            },
+            {
+              "name": "Kettlebell Lunge and Twist",
+              "sets": 4,
+              "reps": "10 each side",
+              "rest": 45
+            },
+            {
+              "name": "Kettlebell Turkish Get-Up (Modified)",
+              "sets": 2,
+              "reps": "3 each side",
+              "rest": 60
+            },
+            {
+              "name": "Cool-down",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        }
+      ],
+      "meals": [
+        {
+          "name": "High-Protein Green Smoothie Bowl",
+          "type": "breakfast",
+          "calories": 350,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 25,
+            "carbs": 40,
+            "fat": 10
+          },
+          "allergens": ["Dairy"],
+          "recipe": "Blend 1 scoop protein powder, 1/2 frozen banana, 1 cup spinach, 1/2 cup Greek yogurt, and 1/2 cup almond milk until thick. Top with 1 tbsp chia seeds, 1 tbsp granola, and berries."
+        }
+      ]
+    }
+  },
+  "muscle_gain": {
+    "beginner": {
+      "workouts": [
+        {
+          "name": "Beginner Bodyweight Strength",
+          "type": "strength",
+          "duration": 40,
+          "intensity": "Moderate",
+          "equipment": ["Bodyweight"],
+          "focus_areas": ["Full Body", "Strength"],
+          "description": "A full-body strength workout using just your bodyweight, perfect for beginners looking to build foundational strength and muscle.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example8",
+          "exercises": [
+            {
+              "name": "Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Bodyweight Squats",
+              "sets": 3,
+              "reps": "15",
+              "rest": 60
+            },
+            {
+              "name": "Push-ups (Regular or Modified)",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": 60
+            },
+            {
+              "name": "Walking Lunges",
+              "sets": 3,
+              "reps": "10 each leg",
+              "rest": 60
+            },
+            {
+              "name": "Glute Bridges",
+              "sets": 3,
+              "reps": "15",
+              "rest": 60
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "30 sec",
+              "rest": 60
+            },
+            {
+              "name": "Supermans",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Cool-down Stretches",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Dumbbell Full Body Workout",
+          "type": "strength",
+          "duration": 45,
+          "intensity": "Moderate",
+          "equipment": ["Dumbbells"],
+          "focus_areas": ["Full Body", "Strength", "Muscle Gain"],
+          "description": "A comprehensive dumbbell workout targeting all major muscle groups for balanced strength development.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example9",
+          "exercises": [
+            {
+              "name": "Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Dumbbell Squats",
+              "sets": 3,
+              "reps": "12",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Chest Press",
+              "sets": 3,
+              "reps": "10",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Row",
+              "sets": 3,
+              "reps": "10 each arm",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Shoulder Press",
+              "sets": 3,
+              "reps": "10",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Lunges",
+              "sets": 3,
+              "reps": "10 each leg",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Tricep Extensions",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Cool-down",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Progressive Push-Pull Workout",
+          "type": "strength",
+          "duration": 50,
+          "intensity": "Moderate",
+          "equipment": ["Dumbbells", "Resistance Bands"],
+          "focus_areas": ["Upper Body", "Back", "Chest", "Arms"],
+          "description": "A push-pull workout focused on upper body development using progressive overload techniques for muscle growth.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example10",
+          "exercises": [
+            {
+              "name": "Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Push-ups (Standard or Modified)",
+              "sets": 4,
+              "reps": "8-12",
+              "rest": 90
+            },
+            {
+              "name": "Resistance Band Rows",
+              "sets": 4,
+              "reps": "12-15",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Chest Flies",
+              "sets": 3,
+              "reps": "12",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Bent-Over Rows",
+              "sets": 3,
+              "reps": "12",
+              "rest": 90
+            },
+            {
+              "name": "Tricep Dips (Chair)",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12",
+              "rest": 60
+            },
+            {
+              "name": "Face Pulls with Resistance Band",
+              "sets": 3,
+              "reps": "15",
+              "rest": 60
+            },
+            {
+              "name": "Cool-down Stretches",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        },
+        {
+          "name": "Lower Body Focus Workout",
+          "type": "strength",
+          "duration": 45,
+          "intensity": "Moderate",
+          "equipment": ["Dumbbells", "Chair"],
+          "focus_areas": ["Lower Body", "Legs", "Glutes"],
+          "description": "A targeted lower body workout designed to build strength and muscle in the legs and glutes for improved power and aesthetics.",
+          "image": "https://via.placeholder.com/150",
+          "video": "https://www.youtube.com/watch?v=example11",
+          "exercises": [
+            {
+              "name": "Dynamic Warm-up",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            },
+            {
+              "name": "Dumbbell Goblet Squats",
+              "sets": 4,
+              "reps": "12-15",
+              "rest": 90
+            },
+            {
+              "name": "Bulgarian Split Squats",
+              "sets": 3,
+              "reps": "10 each leg",
+              "rest": 90
+            },
+            {
+              "name": "Dumbbell Romanian Deadlifts",
+              "sets": 4,
+              "reps": "12",
+              "rest": 90
+            },
+            {
+              "name": "Glute Bridges with Dumbbell",
+              "sets": 3,
+              "reps": "15",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Step-ups",
+              "sets": 3,
+              "reps": "12 each leg",
+              "rest": 60
+            },
+            {
+              "name": "Dumbbell Calf Raises",
+              "sets": 3,
+              "reps": "15-20",
+              "rest": 45
+            },
+            {
+              "name": "Wall Sit",
+              "sets": 3,
+              "duration": "30-45 sec",
+              "rest": 45
+            },
+            {
+              "name": "Lower Body Stretches",
+              "sets": 1,
+              "duration": "5 min",
+              "rest": 0
+            }
+          ],
+          "gym_required": false
+        }
+      ],
+      "meals": [
+        {
+          "name": "Protein-Packed Breakfast Burrito",
+          "type": "breakfast",
+          "calories": 450,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 30,
+            "carbs": 40,
+            "fat": 15
+          },
+          "allergens": ["Eggs", "Gluten", "Dairy"],
+          "recipe": "Scramble 2 whole eggs and 2 egg whites with 1/4 cup diced bell peppers and onions. Warm a whole wheat tortilla, add the eggs, 1/4 cup black beans, 2 tbsp salsa, and 2 tbsp shredded cheese. Roll up and enjoy a protein-rich start to your day."
+        },
+        {
+          "name": "Peanut Butter Banana Oatmeal",
+          "type": "breakfast",
+          "calories": 480,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 18,
+            "carbs": 65,
+            "fat": 16
+          },
+          "allergens": ["Nuts"],
+          "recipe": "Cook 1 cup rolled oats with 1 cup almond milk and 1/2 cup water. Stir in 2 tbsp peanut butter, 1 sliced banana, 1 tbsp maple syrup, and a dash of cinnamon. Top with 1 tbsp hemp seeds for extra protein."
+        },
+        {
+          "name": "Chicken and Quinoa Bowl",
+          "type": "lunch",
+          "calories": 520,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 40,
+            "carbs": 45,
+            "fat": 18
+          },
+          "allergens": ["None"],
+          "recipe": "Cook 5oz chicken breast seasoned with herbs. Serve over 1/2 cup cooked quinoa with 1 cup roasted vegetables (broccoli, bell peppers, zucchini), 1/4 avocado, and 1 tbsp olive oil dressing. A complete muscle-building meal rich in protein and complex carbs."
+        },
+        {
+          "name": "Tuna Pasta Salad",
+          "type": "lunch",
+          "calories": 490,
+          "diet_types": ["Non-Vegetarian", "Pescatarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 35,
+            "carbs": 50,
+            "fat": 15
+          },
+          "allergens": ["Gluten", "Fish"],
+          "recipe": "Mix 1 cup cooked whole wheat pasta with 1 can (5oz) tuna, 1 cup chopped vegetables (cucumber, cherry tomatoes, bell pepper), 2 tbsp Greek yogurt, 1 tbsp olive oil, and Italian herbs. High in protein and complex carbs for sustained energy and muscle recovery."
+        },
+        {
+          "name": "Protein-Rich Stir Fry",
+          "type": "dinner",
+          "calories": 550,
+          "diet_types": ["Non-Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 45,
+            "carbs": 45,
+            "fat": 18
+          },
+          "allergens": ["Soy"],
+          "recipe": "Stir-fry 6oz sliced chicken breast or beef with 2 cups mixed vegetables (broccoli, snow peas, carrots, bean sprouts) in 1 tbsp sesame oil and garlic. Serve over 1/2 cup brown rice with a sauce made from 2 tbsp low-sodium soy sauce, 1 tsp honey, and 1 tsp ginger."
+        },
+        {
+          "name": "Lentil and Brown Rice Bowl",
+          "type": "dinner",
+          "calories": 510,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 25,
+            "carbs": 70,
+            "fat": 12
+          },
+          "allergens": ["None"],
+          "recipe": "Combine 3/4 cup cooked lentils with 1/2 cup brown rice, 1 cup roasted vegetables (sweet potatoes, Brussels sprouts, red onion), 1/4 cup hummus, and 1 tbsp tahini dressing. A plant-based protein powerhouse with complex carbs for sustained energy."
+        },
+        {
+          "name": "Protein Waffles with Fruit",
+          "type": "breakfast",
+          "calories": 460,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 35,
+            "carbs": 45,
+            "fat": 14
+          },
+          "allergens": ["Eggs", "Dairy", "Gluten"],
+          "recipe": "Mix 1/4 cup oat flour, 1 scoop protein powder, 1 tsp baking powder, 1/4 cup cottage cheese, and 2 eggs. Cook in a waffle iron and top with 1 cup mixed berries and 1 tbsp maple syrup for a muscle-building breakfast that satisfies your sweet tooth."
+        },
+        {
+          "name": "Protein Smoothie Bowl",
+          "type": "snack",
+          "calories": 320,
+          "diet_types": ["Vegetarian"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 25,
+            "carbs": 35,
+            "fat": 8
+          },
+          "allergens": ["Dairy", "Nuts"],
+          "recipe": "Blend 1 scoop protein powder, 1/2 cup Greek yogurt, 1/2 frozen banana, 1/4 cup frozen berries, and 1/4 cup milk until thick. Pour into a bowl and top with 1 tbsp granola, 1 tsp chia seeds, and additional berries for an anytime protein boost."
+        },
+        {
+          "name": "Sweet Potato and Black Bean Chili",
+          "type": "dinner",
+          "calories": 480,
+          "diet_types": ["Vegetarian", "Vegan"],
+          "image": "https://via.placeholder.com/150",
+          "macros": {
+            "protein": 22,
+            "carbs": 75,
+            "fat": 10
+          },
+          "allergens": ["None"],
+          "recipe": "Sauté 1 diced onion and 2 cloves minced garlic in olive oil. Add 1 diced sweet potato, 1 can black beans, 1 can diced tomatoes, 1 tbsp chili powder, and 1 tsp cumin. Simmer for 25 minutes until sweet potatoes are tender. Top with avocado slices and fresh cilantro."
+        }
+      ],
+      "equipment_recommendations": [
+        {
+          "name": "Adjustable Dumbbells",
+          "price": 169.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Space-saving dumbbells that adjust from 5-50lbs with the turn of a dial.",
+          "reason": "Essential for progressive overload in strength training without requiring a full set of weights.",
+          "alternatives": "Individual pairs of dumbbells, water jugs with handles, resistance bands"
+        },
+        {
+          "name": "Protein Shaker Bottle",
+          "price": 9.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "BPA-free shaker bottle with blender ball for smooth protein shakes.",
+          "reason": "Makes it easy to prepare and consume protein supplements for post-workout recovery.",
+          "alternatives": "Mason jar with tight lid"
+        },
+        {
+          "name": "Pull-up Bar",
+          "price": 29.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Doorway pull-up bar for upper body and back development.",
+          "reason": "Enables one of the most effective upper body exercises for muscle growth.",
+          "alternatives": "Playground bars, sturdy tree branch"
+        },
+        {
+          "name": "Exercise Mat",
+          "price": 24.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Thick exercise mat for floor exercises and bodyweight movements.",
+          "reason": "Provides cushioning for floor exercises to protect your spine and joints.",
+          "alternatives": "Folded blanket or carpet area"
+        },
+        {
+          "name": "Resistance Bands Set",
+          "price": 29.99,
+          "image": "https://via.placeholder.com/150",
+          "description": "Set of resistance bands with varying levels of resistance and handles.",
+          "reason": "Versatile tools for muscle activation, assistance exercises, and mobility work.",
+          "alternatives": "Elastic exercise bands, surgical tubing"
+        }
+      ]
+    }
+  }
+}
