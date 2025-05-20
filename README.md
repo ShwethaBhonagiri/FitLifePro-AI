@@ -54,13 +54,12 @@ FitLife_Pro/
 ## License
 This project is developed for academic use under UTS guidelines.
 
-
----
-
-> **Thank you for using FitLife Pro AI+**  
+**Thank you for using FitLife Pro AI+**  
 We hope this intelligent planner helped you explore how AI can enhance personalized fitness and nutrition design.
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue.  
 Your feedback helps us improve and evolve this application further.
 
----
+# FitLifePro-AI
+An AI-driven personal fitness assistant that uses clustering, predictive modeling, and reinforcement learning to generate adaptive workout and nutrition plans through an interactive Streamlit interface.
+
